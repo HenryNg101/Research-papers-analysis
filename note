@@ -1,0 +1,5 @@
+PyPDF: Capture words perfectly, for example, "article info", instead of "a r t i c l e i n f o" like the other two
+PyMuPDF: Doesnt capture word perfectly like PyPDF, but seems to separate lines nice
+PDFMiner: separate the lines better, but wrong order, and same issue with capturing words -> Chose this one
+
+Tried to find out the sections 

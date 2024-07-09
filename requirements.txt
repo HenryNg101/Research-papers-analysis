@@ -1,0 +1,7 @@
+pypdf==4.2.0
+pdfminer==20231228
+pdfminer.six==20231228
+PyMuPDF==1.24.7
+PyMuPDFb==1.24.6
+spacy==3.7.5
+en-core-web-sm==3.7.1
